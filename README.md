@@ -1,6 +1,6 @@
-## Olá a todos! Sou estudante de Matemática Aplicada e trabalho como desenvolvedor!
+## Olá a todos! Sou estudante de Matemática Aplicada e trabalho como desenvolvedor júnior!
 
-- 🔭 Atualmente estou trabalhando na Bellocopo.
+- 🔭 Atualmente empregado na Bellocopo.
 - 📫 Como entrar em contato comigo: nas redes sociais que coloquei abaixo.
 - ⚡ Curiosidade: Gosto de quebra-cabeças em geral!
 

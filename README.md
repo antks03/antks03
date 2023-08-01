@@ -16,4 +16,4 @@
 <a href="https://www.linkedin.com/in/antonio-g-4ba4631ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![antks03's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antks03&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/antks03/github-readme-stats#gh-dark-mode-only)
+[![antks03's GitHub stats](https://github-readme-stats.vercel.app/api?username=antks03)](https://github.com/antks03/github-readme-stats)

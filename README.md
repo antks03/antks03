@@ -1,4 +1,4 @@
-## Olá a todos! Sou estudante de Matemática Aplicada e trabalho como desenvolvedor júnior!
+## Olá a todos! Sou estudante de Matemática Aplicada e trabalho como desenvolvedor!
 
 - 📫 Como entrar em contato comigo: nas redes sociais que coloquei abaixo.
 - ⚡ Curiosidade: Gosto de quebra-cabeças em geral!

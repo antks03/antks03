@@ -1,8 +1,8 @@
 ## Olá a todos! Sou estudante de Matemática Aplicada e trabalho como desenvolvedor!
 
+- 🗺️ Sou de Manaus-AM, mas moro na Capital de São Paulo.
 - 📫 Como entrar em contato comigo: nas redes sociais que coloquei abaixo.
 - ⚡ Curiosidade: Gosto de quebra-cabeças em geral!
-
 
 ### Linguagens de programação usadas:
 

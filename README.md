@@ -1,4 +1,4 @@
-## Olá a todos! Sou estudante de Matemática Aplicada!
+## Olá a todos! Sou estudante de Matemática Aplicada e sou apaixonado por tecnologia!
 
 - 🗺️ Sou de Manaus-AM, mas moro na Capital de São Paulo.
 - 📫 Como entrar em contato comigo: nas redes sociais que coloquei abaixo.
